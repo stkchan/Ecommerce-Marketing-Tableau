@@ -1,10 +1,14 @@
 # Ecommerce-Marketing-Tableau
 
 ## Table of Contents
+* [Project Link](#Project-Link)
 * [Project Objective](#Project-Objective)
 * [Data Connection in Tableau](#Data-Connection-in-Tableau)
-* [Project Link](#Project-Link)
 * [Calculation Field](#Calculation-Field)
+
+
+## Project Link
+See on Tableau Public: [Here](https://public.tableau.com/app/profile/anupong.mueangngam/viz/TableuaMarketingAnalysis/MunchysPetSupplyExecutiveDashboard)
 
 ## Project Objective
 In this project, we aim to find insights from the Ecommerce Pet Munchies dataset. The primary objective is visualize data in Tableau to generate insights based on defined goals.
@@ -26,8 +30,6 @@ In this project, we have two data sources.
  
 ![image](https://github.com/stkchan/Ecommerce-Marketing-Tableau/blob/main/1.1.png)
 
-## Project Link
-See on Tableau Public: [Here](https://public.tableau.com/app/profile/anupong.mueangngam/viz/TableuaMarketingAnalysis/MunchysPetSupplyExecutiveDashboard)
 
 ## Calculation Field
 

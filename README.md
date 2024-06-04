@@ -1,5 +1,7 @@
 # Ecommerce-Marketing-Tableau
 
+![image](https://github.com/stkchan/Ecommerce-Marketing-Tableau/blob/main/Munchys%20Pet%20Supply%20Executive%20Dashboard%20(1).png)
+
 ## Table of Contents
 * [Project Link](#Project-Link)
 * [Project Objective](#Project-Objective)
